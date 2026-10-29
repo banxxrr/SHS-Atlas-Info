@@ -30,7 +30,8 @@ Tap the room on the map, choose **Edit label**, then **Copy my corrections**, an
 
 ## Version history
 
-- **v0.2** (Oct 29, 2026, current beta): Much cleaner map: closets, storage and mechanical rooms are plain gray "staff only" blocks with no doors; offices and back rooms inside a suite are one space; hydration stations removed. Directions say what you walk past (like "past Wood Commons") instead of hallway codes. Smarter search that understands words like library, cafeteria and bathroom. Map key and room numbers moved behind an info button; the logo now sits on the map.
+- **v0.3** (Oct 29, 2026, current beta): New look: menus and buttons are solid Patriot gold with black outlines. Searching "bathroom" lists every public restroom.
+- **v0.2** (Oct 29, 2026): Much cleaner map: closets, storage and mechanical rooms are plain gray "staff only" blocks with no doors; offices and back rooms inside a suite are one space; hydration stations removed. Directions say what you walk past (like "past Wood Commons") instead of hallway codes. Smarter search that understands words like library, cafeteria and bathroom. Map key and room numbers moved behind an info button; the logo now sits on the map.
 - **v0.1** (Oct 28, 2026): Doors are marked with gold frames, and rooms that were missing a door have one. Windows in outside walls are filled in. Hallways are smoother and reach the walls. The PWC atrium stairs are real walkable steps up to level 2. Storage rooms and small offices show just a small number so the map is less cluttered. Three fingers tilt the view. Beta password lock.
 - **v0.0.8** (Oct 28, 2026): Much faster and stops crashing on phones. New touch controls like a maps app. Directions now start from straight above you, facing where you're going. Fixed the flickering ground around the stadium.
 - **v0.0.7**: School colors and the Patriots logo. Red route line. Darker walls so you can tell where you can't walk.
